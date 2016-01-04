@@ -51,7 +51,7 @@
     <property name="use.whitelist" value="false"/>
 
     <!-- Name of storage bucket in Google Cloud Store -->
-    <property name="gcs.bucket" value="" />
+    <property name="gcs.bucket" value="boldidea-appinventor.appspot.com" />
     <!-- Whether or not to use GCS for storage -->
     <property name="use.gcs" value="true" />
 
